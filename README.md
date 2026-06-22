@@ -1,13 +1,15 @@
-# ML-Project-312881
+# ML-Project
 Machine Learning Project 2025/2026 - Court Dynamics
 
 ### Group Members:
 
-- Federico Sanna: 312881
+- Arianna Di Lecce
 
-- Arianna Di Lecce: 319181
+  
+- Federico Sanna
 
-- Filippo Parissi: 309151
+  
+- Filippo Parissi
 
 
 ## Project Pipeline 
